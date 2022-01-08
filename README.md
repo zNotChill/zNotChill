@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://avatars.githubusercontent.com/u/59340653?s=48&v=4" align="center" alt="zNotChill" />
+ <img width="100px" src="https://avatars.githubusercontent.com/u/59340653?s=48&v=4" style="border-radius:50%" align="center" alt="zNotChill" />
  <h2 align="center">zNotChill</h2>
  <p align="center">Hi. I'm a developer.</p>
 </p>
