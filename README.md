@@ -5,7 +5,9 @@
  <p align="center">
   <a align="center" href="https://github.com/BlockArchitech">BlockArchitech</a> copied my about me page. Atleast he thinks it looks cool 🤷
  </p>
- https://github.com/zNotChill/zNotChill/pulls
+ <li>
+ Go <a href="https://github.com/zNotChill/zNotChill/pulls">here</a> if you want to contact me.
+ </li>
 </p>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zNotChill&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
