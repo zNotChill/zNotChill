@@ -5,12 +5,12 @@
  <p align="center">
   <a align="center" href="https://github.com/BlockArchitech">BlockArchitech</a> copied my about me page. Atleast he thinks it looks cool 🤷
  </p>
- <h2 align="center">
-   About Me
+ <p align="center">
+   <h2 align="center">About Me</h2>
    <li>
      Honestly just another developer
    </li>
- </h2>
+ </p>
 </p>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zNotChill&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
