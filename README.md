@@ -3,7 +3,7 @@
  <h2 align="center">zNotChill</h2>
  <p align="center">Hi. I'm a developer.</p>
  <p align="center">
-  <a align="center" href="https://github.com/BlockArchitech">BlockArchitech</a> copied my about me page. smh
+  <a align="center" href="https://github.com/BlockArchitech">BlockArchitech</a> copied my about me page. Atleast he thinks it looks cool 🤷
  </p>
  https://github.com/zNotChill/zNotChill/pulls
 </p>
