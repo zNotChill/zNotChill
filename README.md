@@ -5,11 +5,13 @@
  <p align="center">
   <a align="center" href="https://github.com/BlockArchitech">BlockArchitech</a> copied my about me page. Atleast he thinks it looks cool 🤷
  </p>
+ <hr>
  <p align="center">
-   <h2 align="center">About Me</h2>
-   <li>
-     Honestly just another developer
-   </li>
+   <strong><h3 align="center">About Me</h3></strong>
+   <p align="center">• Honestly just another developer.</p>
+   <p align="center">• My main coding languages are: <strong>JavaScript</strong>, <strong>Skript</strong>, <strong>Node.js</strong> and <strong>Python</strong>.</p>
+   <p align="center">• I am British. ☕</p>
+   <p align="center">• I love to code.</p>
  </p>
 </p>
 
