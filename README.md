@@ -14,7 +14,7 @@
  <p align="center">
    <strong><h3 align="center">About Me</h3></strong>
    <p align="center">• Honestly just another developer.</p>
-   <p align="center">• My main coding languages are: <strong>JavaScript</strong>, <strong>Skript</strong>, <strong>Node.js</strong> and <strong>Python</strong>.</p>
+   <p align="center">• My main coding languages are: <strong>JavaScript</strong>, <strong>Skript</strong>, <strong>Node.js</strong>, <strong>Java</strong> and <strong>Python</strong>.</p>
    <p align="center">• I am a coding nerd.</p>
    <p align="center">• I love to code.</p>
  </p>
