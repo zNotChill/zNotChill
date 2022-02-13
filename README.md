@@ -8,15 +8,17 @@
  <h2 align="center">zNotChill</h2>
  <p align="center">Hi. I'm a developer.</p>
  <p align="center">
-  <a align="center" href="https://github.com/BlockArchitech">BlockArchitech</a> copied my about me page. Atleast he thinks it looks cool 🤷
  </p>
  <hr>
  <p align="center">
    <strong><h3 align="center">About Me</h3></strong>
    <p align="center">• Honestly just another developer.</p>
    <p align="center">• My main coding languages are: <strong>JavaScript</strong>, <strong>Skript</strong>, <strong>Node.js</strong>, <strong>Java</strong> and <strong>Python</strong>.</p>
-   <p align="center">• I am a coding nerd.</p>
-   <p align="center">• I love to code.</p>
+   <p align="center">• Sucks at coding.</p>
+   <p align="center">• Sucks at life.</p>
+   <p align="center">• Terrible at Minecraft.</p>
+   <p align="center">• Great at Lorem Ipsum'ing people</p>
+   <p align="center">• Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ex lacus, scelerisque in neque a, egestas bibendum lorem. Duis tempus, mi nec venenatis efficitur, nulla est lacinia justo, quis laoreet tellus metus non urna. Phasellus pellentesque tempus maximus. Maecenas dignissim urna in dolor tincidunt, non consequat libero facilisis. Vestibulum ante ipsum. </p>
  </p>
  <p align="center">
      <strong><h3 align="center">More About Me (paragraph)</h3></strong>
