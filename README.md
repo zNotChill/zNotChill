@@ -9,4 +9,5 @@ https://github.com/znci
 
 `🟢 Node.js` `🟣 osu!`  `🔴 Skript`  `🟠 Java`</p>
 
+![](https://komarev.com/ghpvc/?username=zNotChill&style=for-the-badge)
 [![zNotChill's github activity graph](https://activity-graph.herokuapp.com/graph?username=zNotChill&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
