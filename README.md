@@ -9,6 +9,7 @@ https://github.com/znci
 
 Sometimes I use:
 
+- TypeScript (my new obsession)
 - Node.js
 - JavaScript
 - Go
